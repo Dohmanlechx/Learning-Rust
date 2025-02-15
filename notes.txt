@@ -1,0 +1,7 @@
+Course: https://rust-book.cs.brown.edu/
+
+1. Rust supports shadowing variable, can reuse variable rather than using `guess` and `guess_str`.
+
+2. `cargo doc --open` - WOW! Generates an `index.html` with documentation for the used cargos.
+
+3. Compiler warning about missing error handling (`expect("Error message")`).
